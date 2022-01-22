@@ -1,0 +1,152 @@
+indikator,kecamatan,kelurahan_desa,tidak_ada,hipertensi,rematik,asma,masalah_jantung,diabetes,tuberculosis,stroke,kanker_tumor,lainnya,total_krt
+Penyakit Kronis,Bandung Kulon,Gempol Sari,570,4,44,11,1,1,0,9,0,5,645
+Penyakit Kronis,Bandung Kulon,Cigondewah Kaler,1274,75,121,26,15,8,6,9,3,11,1548
+Penyakit Kronis,Bandung Kulon,Cigondewah Kidul,412,2,6,0,1,0,0,1,0,0,422
+Penyakit Kronis,Bandung Kulon,Cigondewah Rahayu,633,0,2,1,0,0,1,1,0,0,638
+Penyakit Kronis,Bandung Kulon,Caringin,235,2,1,0,2,0,1,5,1,1,248
+Penyakit Kronis,Bandung Kulon,Warung Muncang,1576,25,39,27,10,16,5,18,2,38,1756
+Penyakit Kronis,Bandung Kulon,Cibuntu,756,17,17,14,12,6,1,22,2,19,866
+Penyakit Kronis,Bandung Kulon,Cijerah,1133,64,67,27,18,22,7,26,2,54,1420
+Penyakit Kronis,Babakan Ciparay,Margasuka,547,21,39,6,2,0,6,7,0,34,662
+Penyakit Kronis,Babakan Ciparay,Cirangrang,566,18,18,7,3,6,11,6,1,14,650
+Penyakit Kronis,Babakan Ciparay,Margahayu Utara,1005,22,26,10,6,6,6,16,0,28,1125
+Penyakit Kronis,Babakan Ciparay,Babakan Ciparay,1719,32,64,15,6,6,7,18,3,15,1885
+Penyakit Kronis,Babakan Ciparay,Babakan,1885,55,62,38,20,10,11,29,4,48,2162
+Penyakit Kronis,Babakan Ciparay,Sukahaji,1901,24,87,15,3,8,4,24,1,52,2120
+Penyakit Kronis,Bojongloa Kaler,Kopo,1683,31,62,17,12,7,1,5,1,9,1828
+Penyakit Kronis,Bojongloa Kaler,Suka Asih,1680,37,40,29,4,14,0,11,1,18,1835
+Penyakit Kronis,Bojongloa Kaler,Babakan Asih,1329,18,21,6,4,10,1,17,0,15,1421
+Penyakit Kronis,Bojongloa Kaler,Babakan Tarogong,2278,30,33,18,14,16,6,20,0,32,2448
+Penyakit Kronis,Bojongloa Kaler,Jamika,2233,54,92,21,26,7,3,32,6,48,2523
+Penyakit Kronis,Bojongloa Kidul,Cibaduyut Kidul,513,55,24,11,2,1,5,8,0,8,627
+Penyakit Kronis,Bojongloa Kidul,Cibaduyut Wetan,403,2,9,2,3,0,0,7,0,5,431
+Penyakit Kronis,Bojongloa Kidul,Mekar Wangi,704,29,16,9,10,5,2,6,0,23,804
+Penyakit Kronis,Bojongloa Kidul,Cibaduyut,774,53,42,9,4,1,4,6,0,28,921
+Penyakit Kronis,Bojongloa Kidul,Kebon Lega,970,76,27,22,7,7,9,13,1,18,1150
+Penyakit Kronis,Bojongloa Kidul,Situsaeur,1038,50,47,19,9,15,2,14,1,8,1203
+Penyakit Kronis,Astanaanyar,Karasak,362,14,32,10,5,2,1,6,0,8,442
+Penyakit Kronis,Astanaanyar,Pelindung Hewan,734,30,44,7,7,4,4,11,2,17,860
+Penyakit Kronis,Astanaanyar,Nyengseret,528,18,34,9,5,3,2,10,1,5,615
+Penyakit Kronis,Astanaanyar,Panjunan,380,3,27,0,3,0,2,7,0,3,425
+Penyakit Kronis,Astanaanyar,Cibadak,538,19,9,0,4,2,0,8,0,3,583
+Penyakit Kronis,Astanaanyar,Karang Anyar,170,0,0,0,2,0,1,2,0,1,176
+Penyakit Kronis,Regol,Ciseureuh,823,22,24,14,4,1,4,19,0,7,918
+Penyakit Kronis,Regol,Pasirluyu,925,22,24,16,1,5,1,22,1,21,1038
+Penyakit Kronis,Regol,Ancol,357,47,43,10,4,3,0,5,1,6,477
+Penyakit Kronis,Regol,Cigereleng,344,8,4,2,1,6,0,3,0,3,371
+Penyakit Kronis,Regol,Ciateul,188,7,3,2,2,4,0,3,0,2,211
+Penyakit Kronis,Regol,Pungkur,215,5,3,2,0,1,1,4,0,2,233
+Penyakit Kronis,Regol,Balong Gede,208,2,2,5,2,2,1,5,0,4,231
+Penyakit Kronis,Lengkong,Cijagra,225,4,17,3,1,2,1,1,0,2,256
+Penyakit Kronis,Lengkong,Turangga,146,0,1,1,3,4,1,2,0,5,163
+Penyakit Kronis,Lengkong,Lingkar Selatan,88,11,4,2,3,0,1,2,0,2,113
+Penyakit Kronis,Lengkong,Malabar,277,3,4,3,2,2,0,3,0,14,309
+Penyakit Kronis,Lengkong,Burangrang,448,0,1,1,0,3,0,6,0,0,459
+Penyakit Kronis,Lengkong,Cikawao,300,9,7,6,5,1,0,3,0,23,354
+Penyakit Kronis,Lengkong,Paledang,112,83,33,5,6,3,2,5,1,0,250
+Penyakit Kronis,Bandung Kidul,Wates,650,2,4,2,5,1,0,6,1,0,671
+Penyakit Kronis,Bandung Kidul,Mengger,456,0,0,2,1,1,0,3,0,2,465
+Penyakit Kronis,Bandung Kidul,Batununggal,892,52,73,22,11,9,5,18,1,47,1130
+Penyakit Kronis,Bandung Kidul,Kujangsari,1073,13,9,4,1,4,1,10,1,9,1126
+Penyakit Kronis,Buahbatu,Cijaura,1205,37,91,34,1,5,4,15,1,31,1424
+Penyakit Kronis,Buahbatu,Margasari,1801,56,24,9,5,9,2,15,2,15,1938
+Penyakit Kronis,Buahbatu,Sekejati,839,13,9,7,3,2,2,5,0,13,893
+Penyakit Kronis,Buahbatu,Jati Sari,256,6,21,4,0,2,2,3,0,2,296
+Penyakit Kronis,Rancasari,Derwati,1025,10,33,19,1,3,0,17,1,20,1129
+Penyakit Kronis,Rancasari,Cipamokolan,644,0,2,1,0,2,0,1,1,6,657
+Penyakit Kronis,Rancasari,Manjahlega,378,0,3,2,1,0,0,2,0,2,388
+Penyakit Kronis,Rancasari,Mekarjaya,608,4,12,15,2,6,4,6,0,3,660
+Penyakit Kronis,Gedebage,Rancabolang,299,10,13,11,0,2,1,3,1,15,355
+Penyakit Kronis,Gedebage,Rancanumpang,104,4,6,0,2,2,0,2,0,4,124
+Penyakit Kronis,Gedebage,Cisaranten Kidul,707,32,17,16,5,7,0,13,3,16,818
+Penyakit Kronis,Gedebage,Cimincrang,221,5,9,7,4,0,0,1,2,0,249
+Penyakit Kronis,Cibiru,Pasir Biru,815,58,34,16,5,8,3,13,2,16,970
+Penyakit Kronis,Cibiru,Cipadung,1014,26,31,9,2,6,2,12,2,36,1140
+Penyakit Kronis,Cibiru,Palasari,715,32,41,9,5,8,3,17,1,20,851
+Penyakit Kronis,Cibiru,Cisurupan,794,25,26,5,2,3,5,11,1,18,891
+Penyakit Kronis,Panyileukan,Mekar Mulya,101,1,0,1,3,0,1,1,0,1,109
+Penyakit Kronis,Panyileukan,Cipadung Kidul,156,5,4,5,0,1,1,2,1,0,175
+Penyakit Kronis,Panyileukan,Cipadung Wetan,326,7,4,2,1,1,1,1,0,5,348
+Penyakit Kronis,Panyileukan,Cipadung Kulon,569,22,24,10,3,3,2,5,0,15,653
+Penyakit Kronis,Ujung Berung,Pasanggrahan,1157,19,35,13,3,4,3,15,1,36,1286
+Penyakit Kronis,Ujung Berung,Pasirjati,940,31,81,15,6,4,1,5,1,20,1104
+Penyakit Kronis,Ujung Berung,Pasir Wangi,1000,15,71,5,5,4,2,14,2,25,1143
+Penyakit Kronis,Ujung Berung,Cigending,749,42,41,15,1,6,2,20,3,35,914
+Penyakit Kronis,Ujung Berung,Pasir Endah,335,9,6,2,0,0,1,7,0,6,366
+Penyakit Kronis,Cinambo,Cisaranten Wetan,298,6,4,4,3,2,0,3,0,5,325
+Penyakit Kronis,Cinambo,Babakan Penghulu,315,19,30,15,2,3,2,7,3,18,414
+Penyakit Kronis,Cinambo,Pakemitan,163,6,12,8,2,0,0,0,0,0,191
+Penyakit Kronis,Cinambo,Sukamulya,309,15,14,5,3,1,1,2,1,9,360
+Penyakit Kronis,Arcamanik,Cisaranten Kulon,959,34,34,5,2,6,1,7,1,11,1061
+Penyakit Kronis,Arcamanik,Cisaranten Bina Harapan,847,19,28,3,4,2,3,16,1,3,926
+Penyakit Kronis,Arcamanik,Sukamiskin,635,10,10,8,1,3,5,5,0,20,697
+Penyakit Kronis,Arcamanik,Cisaranten Endah,769,12,10,4,6,5,4,8,0,13,831
+Penyakit Kronis,Antapani,Antapani Kidul,293,2,4,2,0,2,0,1,0,3,307
+Penyakit Kronis,Antapani,Antapani Tengah,642,20,39,10,3,5,2,6,2,20,749
+Penyakit Kronis,Antapani,Antapani Wetan,684,12,43,4,2,6,0,6,1,3,761
+Penyakit Kronis,Antapani,Antapani Kulon,441,10,3,7,1,1,1,5,0,14,483
+Penyakit Kronis,Mandalajati,Jatihandap,1185,28,8,10,6,10,3,14,0,12,1276
+Penyakit Kronis,Mandalajati,Karang Pamulang,952,38,44,15,2,14,4,13,5,18,1105
+Penyakit Kronis,Mandalajati,Sindang Jaya,541,5,1,2,5,1,1,4,0,0,561
+Penyakit Kronis,Mandalajati,Pasir Impun,357,5,10,4,1,6,2,8,1,2,396
+Penyakit Kronis,Kiaracondong,Kebon Kangkung,673,19,13,11,6,6,3,8,1,27,768
+Penyakit Kronis,Kiaracondong,Sukapura,1646,11,40,35,2,5,5,21,2,24,1792
+Penyakit Kronis,Kiaracondong,Kebun Jayanti,754,25,28,20,7,5,4,16,2,43,904
+Penyakit Kronis,Kiaracondong,Babakan Sari,1519,11,23,7,6,4,5,28,1,29,1634
+Penyakit Kronis,Kiaracondong,Babakan Surabaya,909,42,18,10,6,8,0,23,0,23,1039
+Penyakit Kronis,Kiaracondong,Cicaheum,780,28,24,22,6,5,1,20,1,18,905
+Penyakit Kronis,Batununggal,Gumuruh,630,50,33,15,7,13,4,9,3,59,823
+Penyakit Kronis,Batununggal,Binong,950,14,15,8,1,4,0,15,0,11,1020
+Penyakit Kronis,Batununggal,Kebon Gedang,559,3,5,3,0,4,3,6,0,2,586
+Penyakit Kronis,Batununggal,Maleer,1316,21,25,21,1,6,2,9,0,22,1423
+Penyakit Kronis,Batununggal,Cibangkong,742,79,73,23,16,7,12,23,9,36,1020
+Penyakit Kronis,Batununggal,Samoja,870,41,25,15,10,15,4,12,4,23,1019
+Penyakit Kronis,Batununggal,Kacapiring,301,63,47,14,4,6,5,5,2,9,456
+Penyakit Kronis,Batununggal,Kebon Waru,798,9,2,4,3,2,0,13,0,10,841
+Penyakit Kronis,Sumur Bandung,Braga,118,9,5,14,3,0,1,4,0,35,189
+Penyakit Kronis,Sumur Bandung,Kebon Pisang,225,9,9,5,6,3,0,1,1,37,296
+Penyakit Kronis,Sumur Bandung,Merdeka,51,0,0,0,0,0,0,2,0,0,53
+Penyakit Kronis,Sumur Bandung,Babakan Ciamis,159,4,3,7,3,0,0,3,0,2,181
+Penyakit Kronis,Andir,Campaka,784,25,10,6,8,10,4,10,1,8,866
+Penyakit Kronis,Andir,Maleber,628,48,18,8,7,4,0,8,0,11,732
+Penyakit Kronis,Andir,Garuda,414,22,22,8,8,5,3,11,3,10,506
+Penyakit Kronis,Andir,Dungus Cariang,646,28,32,16,11,8,5,9,1,28,784
+Penyakit Kronis,Andir,Ciroyom,921,54,61,9,10,7,4,16,0,27,1109
+Penyakit Kronis,Andir,Kebon Jeruk,442,16,9,12,9,7,6,6,2,9,518
+Penyakit Kronis,Cicendo,Arjuna,172,7,7,3,1,1,1,5,0,7,204
+Penyakit Kronis,Cicendo,Pasirkaliki,269,16,3,4,3,2,0,1,0,2,300
+Penyakit Kronis,Cicendo,Pamoyanan,171,0,0,0,0,0,1,0,0,10,182
+Penyakit Kronis,Cicendo,Pajajaran,1001,49,32,21,5,4,7,29,3,24,1175
+Penyakit Kronis,Cicendo,Husen Sastranegara,800,9,21,4,10,4,1,3,2,5,859
+Penyakit Kronis,Cicendo,Sukaraja,684,42,39,14,7,5,2,14,1,7,815
+Penyakit Kronis,Bandung Wetan,Taman Sari,622,39,20,11,18,6,5,12,0,53,786
+Penyakit Kronis,Bandung Wetan,Citarum,21,0,1,0,1,0,0,0,1,1,25
+Penyakit Kronis,Bandung Wetan,Cihapit,29,0,0,3,0,0,0,0,0,2,34
+Penyakit Kronis,Cibeunying Kidul,Sukamaju,375,12,7,7,3,4,1,7,0,5,421
+Penyakit Kronis,Cibeunying Kidul,Cicadas,534,11,19,5,3,1,2,7,0,5,587
+Penyakit Kronis,Cibeunying Kidul,Cikutra,881,36,33,12,8,7,3,13,1,29,1025
+Penyakit Kronis,Cibeunying Kidul,Padasuka,822,21,14,8,5,4,3,15,3,23,918
+Penyakit Kronis,Cibeunying Kidul,Pasirlayung,849,46,50,22,8,13,14,23,5,35,1066
+Penyakit Kronis,Cibeunying Kidul,Sukapada,1064,32,50,21,9,5,2,31,2,26,1244
+Penyakit Kronis,Cibeunying Kaler,Cihaurgeulis,475,0,0,2,0,0,0,3,0,1,482
+Penyakit Kronis,Cibeunying Kaler,Sukaluyu,451,10,11,6,6,1,0,8,2,2,497
+Penyakit Kronis,Cibeunying Kaler,Neglasari,354,1,6,5,2,0,0,9,1,7,386
+Penyakit Kronis,Cibeunying Kaler,Cigadung,957,24,7,6,11,5,2,16,1,28,1057
+Penyakit Kronis,Coblong,Cipaganti,623,18,7,5,11,4,6,9,2,9,694
+Penyakit Kronis,Coblong,Lebak Siliwangi,261,0,0,1,0,1,0,3,0,2,269
+Penyakit Kronis,Coblong,Lebak Gede,318,13,10,6,4,4,2,2,2,20,381
+Penyakit Kronis,Coblong,Sadang Serang,1004,22,26,17,8,11,1,17,0,32,1139
+Penyakit Kronis,Coblong,Sekeloa,858,33,35,16,13,3,2,19,1,25,1006
+Penyakit Kronis,Coblong,Dago,1044,33,41,37,10,10,8,30,3,98,1317
+Penyakit Kronis,Sukajadi,Sukawarna,363,11,1,3,1,2,1,6,0,4,392
+Penyakit Kronis,Sukajadi,Sukagalih,861,94,8,5,4,6,2,19,1,12,1012
+Penyakit Kronis,Sukajadi,Sukabungah,1219,19,18,14,15,4,3,19,3,8,1322
+Penyakit Kronis,Sukajadi,Cipedes,1179,45,29,20,12,12,6,18,2,12,1337
+Penyakit Kronis,Sukajadi,Pasteur,649,30,33,11,6,3,3,10,1,13,759
+Penyakit Kronis,Sukasari,Sarijadi,461,23,15,18,1,0,0,9,0,7,534
+Penyakit Kronis,Sukasari,Sukarasa,377,10,10,6,2,5,1,9,1,5,426
+Penyakit Kronis,Sukasari,Gegerkalong,542,16,32,1,1,1,1,3,3,0,600
+Penyakit Kronis,Sukasari,Isola,372,2,0,0,1,0,0,4,0,0,379
+Penyakit Kronis,Cidadap,Hegarmanah,490,7,24,12,3,2,3,10,3,15,569
+Penyakit Kronis,Cidadap,Ciumbuleuit,634,24,55,26,6,4,0,8,1,7,765
+Penyakit Kronis,Cidadap,Ledeng,261,0,0,2,1,1,0,2,0,1,268
